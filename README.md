@@ -3,7 +3,7 @@ python3.12 for armhf built bydebian12
 
 download and uzip:
 ```
-sudo tar -xzvpf python3.12-armhf-standalone.tar.gz -C /opt/python3.12-standalone
+sudo tar -xzvpf python3.12-armhf-standalone.tar.gz -C /opt/
 ```
 test by:
 ```
